@@ -1,0 +1,6 @@
+afriqueest.png Afrique-Est
+afriquenord.png Afrique-Nord
+afriquesud.png Afrique-Sud
+congo.png Congo
+egypte.png Egypte
+madagascar.png Madagascar

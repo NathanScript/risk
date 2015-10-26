@@ -1,0 +1,4 @@
+argentine.png Argentine
+bresil.png Bresil
+perou.png Perou
+venezuela.png Venezuela

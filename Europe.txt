@@ -1,0 +1,7 @@
+europenord.png Europe-Nord
+europeoccidental.png Europe-Occidental
+europesud.png Europe-Sud
+grandebretagne.png Grande-Bretagne
+islande.png Islande
+scandinavie.png Scandinavie
+ukraine.png Ukraine

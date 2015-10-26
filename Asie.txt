@@ -1,0 +1,12 @@
+afghanistan.png Afganistan
+chine.png Chine
+inde.png Inde
+japon.png Japon
+kamchatka.png Kamchatka
+mongolie.png Mongolie
+moyenorient.png Moyen-Orient
+oural.png Oural
+siam.png Siam
+siberie.png Siberie
+tchita.png Tchita
+yakoutie.png Yakoutie

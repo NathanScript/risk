@@ -1,0 +1,4 @@
+guinee.png Guinée
+indonesie.png Indonesie
+occidental.png Occidental
+oriental.png Oriental

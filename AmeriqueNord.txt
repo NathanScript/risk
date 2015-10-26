@@ -1,0 +1,9 @@
+alaska.png Alaska
+alberta.png Alberta
+ameriquecentrale.png Amerique-Centrale
+etatest.png Etat-Est
+etatouest.png Etat-Ouest
+groeland.png Groeland
+nordouest.png Nord-Ouest
+ontario.png Ontario
+quebec.png Quebec
